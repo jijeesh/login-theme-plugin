@@ -1,2 +1,2 @@
-@Library('github.com/jenkins-infra/pipeline-library')
+@Library('jenkins-infra-pipeline-library') _
 buildPlugin()
